@@ -1,0 +1,9 @@
+.add-a-cart{
+    display: flex;
+}
+
+.add-a-cart img{
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+}

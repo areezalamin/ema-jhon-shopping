@@ -1,0 +1,22 @@
+.header{
+    height: 80px;
+    background-color: #1C2B35;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    /* position: -webkit-sticky; */
+    position: sticky;
+    top: 0;
+}
+
+.header a{
+    color: aquamarine;
+    font-size: 20px;
+    text-decoration: none;
+    margin-right: 40px;
+}
+
+.header a:hover{
+    color: red;
+}
